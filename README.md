@@ -94,6 +94,15 @@ Slides is a framework based on its own CSS3, JavaScript, and HTML5 language with
 
 Startup Framework is based on Bootstrap and help you to create beautiful and responsive websites. Build your website quickly with an intuitive and easy-to-use drag and drop interface.
 
+## Other Resources:
+
+**[Bootstrap Templates](https://designmodo.com/bootstrap-templates/)**
+
+**[Newsletter Templates](https://designmodo.com/email-newsletter-templates/)**
+
+**[Website Templates](https://designmodo.com/website-templates/)**
+
+
 ## Useful Links
 
 More products from Designmodo: <https://designmodo.com/products/>
